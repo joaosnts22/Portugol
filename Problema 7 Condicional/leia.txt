@@ -1,0 +1,6 @@
+O código analisa se o aluno ficou de recuperação, foi aprovado, ou
+reprovado, baseado na sua nota.
+(considerando que):
+0 a 3.99 = reprovado 
+4 a 6.99 = recuperacao
+7 a 10 = aprovado

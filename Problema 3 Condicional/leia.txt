@@ -1,0 +1,2 @@
+O código calcula o consumo médio de combustivel usando a distancia
+e a quantidade de combustivel usado.

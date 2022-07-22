@@ -1,0 +1,3 @@
+O código informa quantas latas de tinta são necessárias para pintar
+uma parede das dimensões selecionadas. (considerando que cada lata de
+tinta pinta aproximadamente 5 metros quadrados)

@@ -1,0 +1,2 @@
+O código calcula o valor necessário para forrar um piso, dadas suas
+dimensões. (considerando que o piso custa 40 reais/m²)
